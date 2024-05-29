@@ -6,7 +6,7 @@ The "Hotel Reservation" project provides a simple web interface for creating hot
 - **Questioner**:   Peter Stoyanov  - Implements the "Search Form" functionality to allow users to search for reservations based on check-in and check-out dates and the number of guests.
 - **Offerer**:      Rostislav Ivanov - Implements the "Our Offers Form" functionality to allow users to choose room types and meal plans.
 - **Admin**:        Emine Selimovska - Implements the "Guest Details Form" functionality to collect and manage guest information.
-- **Verifier**:     ________________ - Implements the "Confirm Reservation Form" functionality to confirm and validate reservation details.
+- **Verifier**:     Dimitar Dimitrov - Implements the "Confirm Reservation Form" functionality to confirm and validate reservation details.
 
 ## Getting Started
 1. Clone the repository from GitHub.
